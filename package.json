@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "cookie-cutter": "^0.1.1",
+    "gulp-file-include": "^0.13.7",
+    "jquery": "^2.1.4",
+    "jquery-autocomplete": "1.2.1",
+    "laravel-elixir": "^3.0.0",
+    "moment": "2.10.6",
+    "moment-timezone": "^0.4.1",
+    "tablesaw": "2.0.1",
+    "underscore": "1.8.3",
+    "vue": "^0.12.16",
+    "vue-resource": "^0.1.16",
+    "vue-router": "^0.7.4"
+  }
+}
